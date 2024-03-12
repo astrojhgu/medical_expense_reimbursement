@@ -87,7 +87,7 @@ block()[
   #path(fill:none, stroke: (dash:"loosely-dotted",thickness:1.5pt), closed:false, (8pt,0pt),(8pt,100pt))
   ],[]
   ,[
-   #table(columns:(6cm,9cm,3.5cm,3.5cm),
+   #table(columns:(6cm,9cm,3.8cm,3.8cm),
    align:horizon+center,
    
    inset:(y:22pt),
