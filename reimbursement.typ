@@ -64,7 +64,7 @@
   result
 }
 
-#set page(paper:"a4",flipped: true,margin:(top:55pt, bottom:0pt))
+#set page(paper:"a4",flipped: true,margin:(top:75pt, bottom:0pt))
 #let zh_hei = ("SimHei",)
 #set align(center)
 #let ts=0.3cm//title spacing
